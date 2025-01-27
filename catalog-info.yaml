@@ -25,9 +25,7 @@ metadata:
     backstage.io/kubernetes-namespace: '63feee14cbf66e3c798c4bdc'
     github.com/project-slug: vigneswara-propelo/python-pipeline-samples
     harness.io/pipelines: |
-      Build: https://qa.harness.io/ng/account/Vp0XSI5MSgiF9p8lIIpThg/module/ci/orgs/default/projects/IDPdeploy/pipelines/eqdq/pipeline-studio?storeType=INLINE
-    harness.io/services: |
-      cd: https://stress.harness.io/ng/account/px7xd_BFRCi-pfWPYXVjvw/cd/orgs/default/projects/idptestharness/services/testservice
+      Build: https://qa.harness.io/ng/account/px7xd_BFRCi-pfWPYXVjvw/module/ci/orgs/default/projects/testidp/pipelines/register/pipeline-studio/?storeType=INLINE
     pagerduty.com/service-id: PNISOWY
 #     snyk.io/org-name: vigneswara-propelo
 #     snyk.io/project-ids: 7c7766e6-1231-4e4f-b51f-0cbd2aacb227, 4addb946-2ff4-41b7-ae71-2a5d480193ee
